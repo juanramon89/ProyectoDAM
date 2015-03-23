@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+        <item android:title="@string/acerca_de"
+              android:id="@+id/acercaDe"
+              android:showAsAction="never" android:orderInCategory="3"/>
+        
+       	<item android:title="@string/ajuste"
+              android:id="@+id/ajustes"
+              android:showAsAction="never" android:orderInCategory="2"/>
+       	
+</menu>

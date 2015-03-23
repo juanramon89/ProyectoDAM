@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">FindBand</string>
+    <string name="seleccion_artista">Enter a band or artist:</string>
+    <string name="seleccion_estilo">Choose a style:</string>
+    <string name="logo">Logo FindBand</string>
+    
+    <!-- Strings de las Tabs -->
+    
+    <string name="tab_artistas">Artists</string>
+    <string name="tab_estilos">Styles</string>
+    <string name="boton_buscar">Find</string>
+    
+    <!-- Strings cabecera MuestraArtistas -->
+    
+    <string name="enlaces">Links</string>
+    <string name="artistas">Artists</string>
+    <string name="estilo">Styles</string>
+    
+    <!-- Strings de pantalla MuestraEnlaces -->
+    
+    <string name="descrip_img">Links to tracks</string>
+    <string name="img_enl1">Link first track</string>
+    <string name="img_enl2">Link second track</string>
+    <string name="img_enl3">Link third track</string>
+    <string name="texto_artista">EditText artistas</string>
+    
+    <!-- Strings del Menu de la Aplicacion -->
+    
+    <string name="acerca_de">About....</string>
+    <string name="ajuste">Settings</string>
+    
+    <!-- Strings de pantalla AcercaDe -->
+    
+    <string name="nombre">App Nombre</string>
+    <string name="app_version">App Version</string>
+    <string name="version">1.1.15</string>
+    <string name="descripcion">Application developed by Juan Ramón García López</string>
+    
+    <!-- String de pantalla Ajustes -->
+    
+    <string name="idioma">Language Selection:</string>
+    
+	
+</resources>

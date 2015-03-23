@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/example/findband/FragmentEstilos.java" />
+        <ignore path="src/com/example/findband/MuestraArtistas.java" />
+    </issue>
+    <issue id="UnusedAttribute">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="ViewHolder">
+        <ignore path="src/com/example/findband/FragmentEstilos.java" />
+        <ignore path="src/com/example/findband/MuestraArtistas.java" />
+    </issue>
+</lint>
